@@ -25,5 +25,5 @@ def fatorial(n=1, show=False):
 
 
 #Programa principal
-print(fatorial(15, True))
+print(fatorial(8, True))
 help(fatorial)
